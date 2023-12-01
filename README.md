@@ -8,4 +8,4 @@
 
 <h3 align="center">Equatorial Energia - bot</h3>
 
-A Equatorial Energia é uma holding que controla as distribuidoras de energia Equatorial Energia Alagoas, Equatorial Energia Maranhão, Equatorial Energia Pará, Equatorial Energia Piauí, CEEE Equatorial Energia e CEA Equatorial Energia.
+ 
